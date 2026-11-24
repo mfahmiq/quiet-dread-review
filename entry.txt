@@ -1,0 +1,1 @@
+LGTM. It works, the tests pass, and one day someone will read this code the way we read cave paintings.
